@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity">Quantité</string>
+    <string name="_plus">+</string>
+    <string name="_0">0</string>
+    <string name="_less">-</string>
+    <string name="order_summary">Sommaire Commande</string>
+    <string name="_0dollars">0$</string>
+    <string name="order">Commande</string>
+    <string name="toppings">Ajouts</string>
+    <string name="whipped_cream">Crème fouettée</string>
+    <string name="chocolate">Chocolat</string>
+    <string name="type_your_name_here">Ton nom ici</string>
+    <string name="name">Nom</string>
+    <string name="total">Total de</string>
+    <string name="thank_you">Merci!</string>
+</resources>
